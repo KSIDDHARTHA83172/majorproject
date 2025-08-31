@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "578234845824",
+    "firebase_url": "https://mp-app-bc636-default-rtdb.firebaseio.com",
+    "project_id": "mp-app-bc636",
+    "storage_bucket": "mp-app-bc636.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578234845824:android:74a9be681f290548047465",
+        "android_client_info": {
+          "package_name": "com.example.mpapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-QOmcw8iOOswyZMHzoyQc8rdoA7hBH6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
